@@ -25,13 +25,14 @@
             "id": "8e3570bf5ddac4e9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "First Obsidian Note.md",
-                "staged": false
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (First Obsidian Note)"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -189,9 +190,9 @@
   },
   "active": "8e3570bf5ddac4e9",
   "lastOpenFiles": [
-    "2024-10-24.md",
     "First Obsidian Note.md",
     "create a link.md",
+    "2024-10-24.md",
     "Welcome.md"
   ]
 }
