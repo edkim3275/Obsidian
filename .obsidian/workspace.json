@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2024-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2024-10-24"
             }
           }
         ],
@@ -190,9 +190,9 @@
   },
   "active": "8e3570bf5ddac4e9",
   "lastOpenFiles": [
-    "First Obsidian Note.md",
     "create a link.md",
     "2024-10-24.md",
-    "Welcome.md"
+    "Welcome.md",
+    "First Obsidian Note.md"
   ]
 }
